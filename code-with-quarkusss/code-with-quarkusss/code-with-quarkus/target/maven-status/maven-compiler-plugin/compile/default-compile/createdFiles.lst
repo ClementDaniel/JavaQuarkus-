@@ -1,0 +1,9 @@
+org\acme\Program.class
+org\acme\ProgramResource.class
+org\acme\StudentResource.class
+org\acme\Database.class
+org\acme\Lecturer.class
+org\acme\Department.class
+org\acme\LecturerResource.class
+org\acme\Student.class
+org\acme\Main.class
