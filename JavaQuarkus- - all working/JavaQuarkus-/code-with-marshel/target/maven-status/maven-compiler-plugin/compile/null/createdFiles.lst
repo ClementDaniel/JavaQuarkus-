@@ -1,0 +1,17 @@
+org\acme\client\ProgramClient.class
+org\acme\model\Program.class
+org\acme\model\Database.class
+org\acme\model\Department.class
+org\acme\client\StudentClient.class
+org\acme\model\Student.class
+org\acme\client\LecturerClient.class
+org\acme\service\DepartmentService.class
+org\acme\resource\StudentResource.class
+org\acme\resource\DepartmentResource.class
+org\acme\model\Lecturer.class
+org\acme\client\DepartmentClient.class
+org\acme\service\ProgramService.class
+org\acme\resource\ProgramResource.class
+org\acme\resource\LecturerResource.class
+org\acme\service\StudentService.class
+org\acme\service\LecturerService.class
